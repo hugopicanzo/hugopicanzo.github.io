@@ -1,0 +1,19 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "publish": "checkbox",
+    "training": "checkbox",
+    "Healthy (no carbs/no coffee/no sugar)": "checkbox",
+    "100/100 (pushups and abs)": "checkbox",
+    "Cardio": "checkbox",
+    "BB Reports": "checkbox",
+    "Certifications": "checkbox",
+    "Coding": "checkbox",
+    "Dissecting Series(A) / Vulnerability Research(B)": "checkbox",
+    "BB Researches/Writeups": "checkbox",
+    "Bugbounty 0-100k": "checkbox",
+    "Running": "checkbox"
+  }
+}

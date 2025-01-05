@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "clean-embeds-all"
+  ],
+  "nativeMenus": false,
+  "baseFontSizeAction": true
+}

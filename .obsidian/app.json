@@ -1,0 +1,18 @@
+{
+  "livePreview": true,
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "showRibbon": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "newFileLocation": "root"
+}

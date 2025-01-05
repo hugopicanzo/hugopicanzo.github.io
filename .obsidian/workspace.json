@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "f67deee3fbf2cbc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fc1468794c05240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc185cf210614445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Daily Follow Up/index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "740acddd26995f02",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a238929ef6b43b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d0acecdddac4022",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9f2a56cff94e0f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:year2025",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4bcd51cb6eaffe02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 536.5
+  },
+  "right": {
+    "id": "db7ea3556ff13f7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f5c429aec4c0e46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14adde95807a56de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bug Bounty Hunting/Bug Bounty Methodology/1. Recon-Footprinting and Fingerprinting/Steps.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Steps"
+            }
+          },
+          {
+            "id": "21dfecb44fa59c10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c07481288f5d6c9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bug Bounty Hunting/Bug Bounty Methodology/1. Recon-Footprinting and Fingerprinting/Steps.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Steps"
+            }
+          },
+          {
+            "id": "aa8ffb3571b273b9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6b007fbb1ada5b5f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9a9673aacb73f0c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Bug Bounty Hunting/Bug Bounty Methodology/1. Recon-Footprinting and Fingerprinting/Steps.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Steps"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create loom": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "fc185cf210614445",
+  "lastOpenFiles": [
+    "Weekly Improving Plan/Follow up/Templates/Daily.md",
+    "Weekly Improving Plan/Follow up/2025/05-01-2025.md",
+    "Weekly Improving Plan/Follow up/Bug Bounty 0-100k challenge/Untitled.md",
+    "Weekly Improving Plan/Follow up/Bug Bounty 0-100k challenge",
+    "Weekly Improving Plan/Follow up/Templates/Follow Up Tracker.md",
+    "Weekly Improving Plan/Follow up/2025/01-01-2025.md",
+    "Weekly Improving Plan/Follow up/2025/04-01-2025.md",
+    "Weekly Improving Plan/How to be disciplined.md",
+    "Weekly Improving Plan/Follow up/2025/03-01-2025.md",
+    "Weekly Improving Plan/Follow up/2025/02-01-2025.md",
+    "2025-01-02.md",
+    "Untitled 1.loom",
+    "Untitled.loom",
+    "daily notes/daily notes 2",
+    "daily notes",
+    "Weekly Improving Plan/Follow up/Templates/Monthly.md",
+    "Weekly Improving Plan/Follow up/2025",
+    "Weekly Improving Plan/Follow up/Nueva carpeta",
+    "Weekly Improving Plan/Follow up/Templates/Yearly.md",
+    "Weekly Improving Plan/Follow up/2024/Daily/2024-01-15.md",
+    "Weekly Improving Plan/Follow up/2024/Daily/2024-02-10.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Javascript Recon.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/IDOR.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/findings.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Favicon recon.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Cross-Site Web Socket Hijacking.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Content Discover.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Javascript related/strings to look for.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Javascript related/javascript recon.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Javascript related/javascript monitoring.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Recon/Others.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Recon/ASN Discovery.md",
+    "Bug Bounty Hunting/Bug Bounty Checklists/Recon/AD Analytics Relationships.md",
+    "Weekly Improving Plan/Follow up/2024/Daily/Untitled.loom",
+    "Bug Bounty Hunting/Bug Bounty Methodology/Research/attachments/Pasted image 20241214172050.png",
+    "Bug Bounty Hunting/Bug Bounty Methodology/Research/attachments",
+    "Bug Bounty Hunting/Bug Bounty Methodology/Research",
+    "Learning/Bug Bounty/Hunters articles research/Sam Curry/attachments/Pasted image 20241126214554.png",
+    "Learning/Bug Bounty/Hunters articles research/Sam Curry/attachments/Pasted image 20241126213716.png",
+    "Bug Bounty Hunting/Hunting Roadmap/Recon Methodology.canvas",
+    "Bug Bounty Hunting/Hunting/Bug Bounty Programs/Amazon/info.flex.amazon.com/attachments/Pasted image 20240922133408.png",
+    "Bug Bounty Hunting/Hunting/Bug Bounty Programs/Amazon/info.flex.amazon.com/attachments/Pasted image 20240922132147.png",
+    "Bug Bounty Hunting/Hunting/Bug Bounty Programs/Amazon/info.flex.amazon.com/attachments/Pasted image 20240922131704.png",
+    "Bug Bounty Hunting/Hunting/Bug Bounty Programs/Amazon/info.flex.amazon.com/attachments/Pasted image 20240922131519.png",
+    "Bug Bounty Hunting/Hunting/Bug Bounty Programs/Amazon/info.flex.amazon.com/attachments/Pasted image 20240922131328.png",
+    "Bug Bounty Hunting/Hunting/Bug Bounty Programs/Amazon/info.flex.amazon.com/attachments/Pasted image 20240922131141.png",
+    "Bug Bounty Hunting/Hunting/Bug Bounty Programs/Amazon/attachments/Pasted image 20240919233503.png",
+    "Untitled.canvas"
+  ]
+}

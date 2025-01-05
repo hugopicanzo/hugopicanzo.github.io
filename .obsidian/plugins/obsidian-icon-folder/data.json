@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RaBattery0",
+      "RaBattery25",
+      "🚫",
+      "🟢",
+      "RaBattery100"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/websitesmail.att.com": "RaBattery0",
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/careplus.att.com - 14-09-24": {
+    "iconName": "RaBattery100",
+    "iconColor": "#eb0000"
+  },
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/globalsupplychain.test.att.com": "RaBattery0",
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/amlcaef.att.com": "🚫",
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/npwt.att.com (unfinished web)": {
+    "iconName": "RaBattery100",
+    "iconColor": "#ff0000"
+  },
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/dcls-be-prov.nprd-gw.cloud.att.com (apiconsole)": "RaBattery0",
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/expressticketing.acss.att.com": "RaBattery25",
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/dmp.att.com": "RaBattery0",
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/cybertraining.att.com": "RaBattery25",
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/employeerelief.att.com": "RaBattery0",
+  "Bug Bounty Hunting/Hunting/Bug Bounty Programs/att/myvehicle-qc.stage.att.com": "RaBattery25"
+}
