@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Daily Follow Up/index.md",
+                "file": "docs/Daily Follow Up/Follow Up Tracking.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Follow Up Tracking"
             }
           }
         ]
@@ -188,6 +188,8 @@
   },
   "active": "fc185cf210614445",
   "lastOpenFiles": [
+    "docs/Daily Follow Up/index.md",
+    "docs/Daily Follow Up/Follow Up Tracking.md",
     "Weekly Improving Plan/Follow up/Templates/Daily.md",
     "Weekly Improving Plan/Follow up/2025/05-01-2025.md",
     "Weekly Improving Plan/Follow up/Bug Bounty 0-100k challenge/Untitled.md",
@@ -219,8 +221,6 @@
     "Bug Bounty Hunting/Bug Bounty Checklists/Javascript related/javascript recon.md",
     "Bug Bounty Hunting/Bug Bounty Checklists/Javascript related/javascript monitoring.md",
     "Bug Bounty Hunting/Bug Bounty Checklists/Recon/Others.md",
-    "Bug Bounty Hunting/Bug Bounty Checklists/Recon/ASN Discovery.md",
-    "Bug Bounty Hunting/Bug Bounty Checklists/Recon/AD Analytics Relationships.md",
     "Weekly Improving Plan/Follow up/2024/Daily/Untitled.loom",
     "Bug Bounty Hunting/Bug Bounty Methodology/Research/attachments/Pasted image 20241214172050.png",
     "Bug Bounty Hunting/Bug Bounty Methodology/Research/attachments",
